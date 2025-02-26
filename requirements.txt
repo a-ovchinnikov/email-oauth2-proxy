@@ -4,6 +4,8 @@
 #
 #    pip-compile
 #
+setuptools==66.1
+    # via emailproxy (pyproject.toml)
 cffi==1.17.1
     # via cryptography
 cryptography==44.0.1
